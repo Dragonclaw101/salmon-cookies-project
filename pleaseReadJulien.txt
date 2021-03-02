@@ -1,0 +1,12 @@
+Hey! I was trying to contact you, but I might not have reached you as well as I would have hoped. I was thinking that our team name could be "Code Ninjas" or something. I'm not picky, so feel free to pick it out if you want. 
+
+As for our team agreement - 
+
+I can communicate with you via email, Slack, Discord (live chat or text chat,) or SMS. I am usually available in the mornings (I am part of the afternoon cohort in-person, so I am unavailable 11:40-3:00) and I am unavailable most of the day Saturday, and I am not available on Sunday.
+Other than this, please do not commit to the main branch. Commit to a new branch, and try not to branch from the same branch multiple times (i.e, we have a branch called "B1" and we want to make a day1, day2, and day3 branch. We should branch them in that order, not all off of the B1 branch.)
+Do not confirm your own pull request, please.
+I have a work day on Tuesday, Wednesday, and Friday, so most of my work will probably happen then.
+Please let me know if you are stuck - I would like to be able to help you through it (a live chat via phone call or Discord would probably be the best thing to do.)
+If I decide to work on a certain file/page/whatever, please don't work on that same file. We'll end up with merge conflicts. Example: Say I am working on the script for the table, called table.js. To work on the shop page, work with shop.js instead, or work on table.js after I've committed my changes (and please try to work in another branch as well, if at all possible.)
+
+I think that's it? Please feel free to add any, and please discuss if anything doesn't work for you. Thanks!
